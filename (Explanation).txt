@@ -1,0 +1,25 @@
+  Simple Linear Regression Model:
+
+Here we have a Simple Linear Regression Model for the 
+Dataset "Salary_Data" which is the dataset of Salary 
+based on years of Experience of the Employee. So, this 
+model helps to predict the expected salary for the 
+employee based on No of years of experience.
+
+
+  My work flow:
+
+--Importing libraries
+--Importing dataset
+--splitting dataset into training set and test set
+--fitting simple linear regression to the training set
+--predicting test set results
+--visualising training set results
+--visualising test set result
+
+
+  Colaboratory Link:
+https://colab.research.google.com/drive/1t-J-U_2cJ7Ltf4xx7pzY7-v0fg-_nNyG
+
+
+
